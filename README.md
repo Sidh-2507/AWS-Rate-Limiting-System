@@ -64,6 +64,5 @@ This project is open-source and available for learning purposes.
 ## 👤 Author
 **Siddharth Trivedi**
 
----
-✅ **Done!** Upload this README.md to GitHub for documentation. Let me know if you need any modifications! 🚀
+
 
